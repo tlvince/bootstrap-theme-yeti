@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-theme-yeti",
+  "version": "3.2.0",
+  "authors": [
+    "Tom Vincent <git@tlvince.com>"
+  ],
+  "description": "Bootswatch Yeti Bootstrap theme",
+  "main": "yeti.min.css",
+  "keywords": [
+    "bootstrap",
+    "yeti",
+    "theme",
+    "bootswatch"
+  ],
+  "license": "MIT",
+  "homepage": "http://bootswatch.com/yeti"
+}
